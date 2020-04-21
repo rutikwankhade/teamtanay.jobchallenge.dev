@@ -25,7 +25,7 @@ Also this challenge will help me be consistant and focused.
 
 ## something interesting about you?
 
-I love reading books, mostly non-fiction, biographies and self help books. Also I am very enthusiastic person.I love meeting like minded people and discuss. 
+I love reading books, mostly non-fiction, biographies and self help books. Also I am very enthusiastic person.I love meeting like minded people and discuss about things.. 
 
 ### help I need?
 
@@ -43,5 +43,10 @@ I have done some small projects while learning. Currently I am working on some g
 
 ### blogs
 
-I love writing blogs. It makes me things in a different perspective. I share about my learnings,experiences and tutorials here.
+I love writing blogs. Writing helps me learn better. I share about my learnings,experiences and tutorials here.
 [Blog on hashnode](https://rutikwankhade.hashnode.dev/)
+
+List of blogs I wrote
+- [A step by step guide to functions in JavaScript](https://rutikwankhade.hashnode.dev/a-step-by-step-guide-to-functions-in-javascript-ck988kutu0038css17bxftivd)
+-[Learn JavaScript concepts by building a random quote generator](https://rutikwankhade.hashnode.dev/learn-javascript-concepts-by-building-a-random-quote-generator-ck87070ks00lw9ls1elshm606)
+-[Github repositories every aspiring developer should check out](https://rutikwankhade.hashnode.dev/github-repositories-every-aspiring-developer-should-check-out-ck7k24sxu01otnds1bukx15ip)
